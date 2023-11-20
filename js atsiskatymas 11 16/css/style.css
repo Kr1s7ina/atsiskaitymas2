@@ -1,0 +1,33 @@
+.rodyti, .maisyti{
+    background-color: #6699ff;
+    justify-content: center;
+    color: white;
+    border: none;
+    font-size: 3vh;
+    width: 15vh;
+    height: 5vh;
+    margin: 15px;
+    border-radius: 10px 10px 10px 10px ;
+    
+    
+}
+.galerija{
+    margin-top: 30px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+ul .abc{
+    list-style: none;
+    overflow: hidden;
+}
+
+
+img{
+    height:220px ;
+    width: 300px;
+    margin: 10px;
+}
